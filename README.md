@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project explores sentiment analysis to understand user reviews and opinions on the Google Play Store. By automatically identifying whether reviews are positive, negative, or neutral, this project can provide valuable insights for app developers to improve user experience and make better decisions.
+This project explores sentiment analysis to understand user reviews and opinions on famous game "Honor Of Kings" on the Google Play Store. By automatically identifying whether reviews are positive, negative, or neutral, this project can provide valuable insights for app developers to improve user experience and make better decisions.
 
 **Data**
 
